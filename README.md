@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **bmohak87@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-mohak.tk/resume](https://portfolio-mohak.tk/resume)
+- 📄 Know about my experiences ["Resume"](https://github.com/Mohak-CODING-HEAVEN/Mohak-CODING-HEAVEN/raw/main/Resume.pdf)
 
 - ⚡ Fun fact **I think I'm the Best**
 
