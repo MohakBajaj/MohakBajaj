@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="vendors/flaticon/flaticon.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,600&display=swap" rel="stylesheet">
   </head>
   <body>
     <header class="header_area">
@@ -47,12 +48,12 @@
               class="collapse navbar-collapse offset"
               id="navbarSupportedContent"
             >
-              <ul class="nav navbar-nav menu_nav ml-auto">
-                <li class="nav-item active">
+              <ul class="nav navbar-nav menu_nav ml-auto">              
+                <li class="nav-item ">
                   <a class="nav-link" href="index.html">Home</a>
                 </li>
                             
-                <li class="nav-item">
+                <li class="nav-item active">
                   <a class="nav-link" href="portfolio.html">PortFolio</a>
                 </li>
                 <li class="nav-item">
@@ -60,8 +61,7 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="https://coding-heaven-blog.tk"
-                    >Blog</a
-                  >
+                    >Blog</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="https://coding-heaven.herokuapp.com/#slide05">Contact</a>
@@ -85,6 +85,81 @@
 								<a href="index.html">Home</a>
 								<a href="portfolio.html">Portfolio</a>
 							</div>
+              <style>
+                .hexagon-wrapper {
+  margin: auto;
+  display: flex;
+  text-align: initial;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
+
+.hexagon {
+  position: relative;
+  width: 40%;
+  height: 40%;
+  margin: auto;
+  color: white;
+  background: linear-gradient(-180deg, white, #000000);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  transition: 0.5s;
+}
+
+.hexagon i {
+  z-index: 1;
+  margin: auto;
+  font-size: 53px;
+  color: transparent;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.hexagon:before,
+.hexagon:after {
+  position: absolute;
+  content: "";
+  background: inherit;
+  height: 100%;
+  width: 100%;
+  border-radius: 0;
+  transition: 0.5s;
+  transform-origin: center;
+}
+.hexagon:before {
+  transform: rotateZ(60deg);
+}
+.hexagon:after {
+  transform: rotateZ(-60deg);
+}
+.hexagon:hover {
+  border-radius: 50px;
+  transition: 0.5s;
+}
+.hexagon:hover:before {
+  border-radius: 50px;
+  transition: 0.5s;
+}
+.hexagon:hover:after {
+  border-radius: 50px;
+  transition: 0.5s;
+}
+
+              </style>
+             
+            </div>
+            <a href="https://github.com/Mohak-CODING-HEAVEN">
+            <div class="hexagon-wrapper">
+              <div class="hexagon">
+                <i class="fa fa-github"></i>
+              </div>
+            </div>
+          </a>
+
+              </div>
 						</div>
 					</div>
 				</div>
@@ -101,30 +176,78 @@
         		<div class="isotope_fillter">
         			<ul class="gallery_filter list">
 						<li class="active" data-filter="*"><a href="#">All</a></li>
-						<li data-filter=".python"><a href="#">Python</a></li>
+						<li data-filter=".py"><a href="#">Python</a></li>
 						<li data-filter=".ml"><a href="#">Machine Learning</a></li>
 						<li data-filter=".cv"><a href="#">Computer Vision</a></li>
-						<li data-filter=".games"><a href="#">Games</a></li>
+						<li data-filter=".game"><a href="#">Games</a></li>
 					</ul>
         		</div>
         	</div>
         	<div class="container">
-        		<div class="gallery_f_inner row imageGallery1">
-        			<div class="col-lg-4 col-md-4 col-sm-6 python manipul design print">
+        		
+            <div class="gallery_f_inner row imageGallery1">
+              <!-- #1 -->
+        			<div class="col-lg-4 col-md-4 col-sm-6 py ml cv">
         				<div class="h_gallery_item">
         					<div class="g_img_item">
-        						<img class="img-fluid" src="img/gallery/project-1.jpg" alt="">
-        						<a class="light" href="img/gallery/project-1.jpg"><img src="img/gallery/icon.png" alt=""></a>
+        						<img class="img-fluid" src="https://github.com/Mohak-CODING-HEAVEN/cvpro/blob/main/Results/HandTrack.png?raw=true" alt="">
+        						<a class="light" href="https://github.com/Mohak-CODING-HEAVEN/cvpro/blob/main/Results/HandTrack.png?raw=true"><img src="img/gallery/icon.png" alt=""></a>
         					</div>
         					<div class="g_item_text">
-        						<h4>3D Helmet Design</h4>
-        						<p>Client Project <a href="https://github.com/Mohak-CODING-HEAVEN"
+        						<h4>CVPRO</h4>
+        						<p>Computer Vision Helping Library <br><a style="font-size: xx-large;" href="https://github.com/Mohak-CODING-HEAVEN/cvpro"
 									><i class="fa fa-github"></i
 								  ></a></p>
         					</div>
         				</div>
         			</div>
-        			
+              <!-- #2 -->
+              <div class="col-lg-4 col-md-4 col-sm-6 py ml game">
+                <div class="h_gallery_item">
+                  <div class="g_img_item">
+                    <img class="img-fluid" src="https://github.com/Mohak-CODING-HEAVEN/NEAT-Flappy-Bird/blob/main/expample/example.png?raw=true" alt="">
+                    <a class="light" href="https://github.com/Mohak-CODING-HEAVEN/NEAT-Flappy-Bird/blob/main/expample/example.png?raw=true"><img src="img/gallery/icon.png" alt=""></a>
+                  </div>
+                  <div class="g_item_text">
+                    <h4>Neat Flappy Bird</h4>
+                    <p>AI plays Flappy Bird using NEAT Algorithm <br><a style="font-size: xx-large;" href="https://github.com/Mohak-CODING-HEAVEN/NEAT-Flappy-Bird"
+                  ><i class="fa fa-github"></i
+                  ></a></p>
+                  </div>
+                </div>
+              </div>  
+              <!-- #3 -->
+              <div class="col-lg-4 col-md-4 col-sm-6 py">
+                <div class="h_gallery_item">
+                  <div class="g_img_item">
+                    <img class="img-fluid" src="https://github.com/Mohak-CODING-HEAVEN/Python-Projects/blob/main/cafemanagement/example.png?raw=true" alt="">
+                    <a class="light" href="https://github.com/Mohak-CODING-HEAVEN/Python-Projects/blob/main/cafemanagement/example.png?raw=true"><img src="img/gallery/icon.png" alt=""></a>
+                  </div>
+                  <div class="g_item_text">
+                    <h4>Restarunt Management</h4>
+                    <p>Tkinter GUI to manage your Restarunt <br><a style="font-size: xx-large;" href="https://github.com/Mohak-CODING-HEAVEN/Python-Projects/tree/main/cafemanagement"
+                  ><i class="fa fa-github"></i
+                  ></a></p>
+                  </div>
+                </div>
+              </div>               
+              <!-- #4 -->
+               <div class="col-lg-4 col-md-4 col-sm-6 py">
+                <div class="h_gallery_item">
+                  <div class="g_img_item">
+                    <img class="img-fluid" src="https://github.com/Mohak-CODING-HEAVEN/Python-Projects/blob/main/weather/example.png?raw=true" alt="">
+                    <a class="light" href="https://github.com/Mohak-CODING-HEAVEN/Python-Projects/blob/main/weather/example.png?raw=true"><img src="img/gallery/icon.png" alt=""></a>
+                  </div>
+                  <div class="g_item_text">
+                    <h4>Weather Scraping GUI</h4>
+                    <p>Tkinter GUI for Weather Scraping <br><a style="font-size: xx-large;" href="https://github.com/Mohak-CODING-HEAVEN/Python-Projects/tree/main/weather"
+                  ><i class="fa fa-github"></i
+                  ></a></p>
+                  </div>
+                </div>
+              </div>  
+              <!-- #5 -->
+
         		</div>
         	</div>
         </section>
