@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Python Project**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mohak.tk](https://portfolio-mohak.tk)
+- 👨‍💻 All of my projects are available at [https://portfolio-mohak.tk](https://www.portfolio-mohak.tk)
 
 - 📝 I regularly write articles on [https://coding-heaven-blog.tk](https://coding-heaven-blog.tk)
 
