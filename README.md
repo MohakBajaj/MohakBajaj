@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mohak.tk](https://www.portfolio-mohak.tk)
 
-- 📝 I regularly write articles on [https://coding-heaven-blog.tk](https://coding-heaven-blog.tk)
-
 - 💬 Ask me about **Python, ComputerVision, Machine Learning**
 
 - 📫 How to reach me **bmohak87@gmail.com**
