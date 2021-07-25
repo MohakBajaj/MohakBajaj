@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak-coding-heaven&label=Profile%20views&color=0e75b6&style=flat" alt="mohak-coding-heaven" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohak-coding-heaven" alt="mohak-coding-heaven" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/heaven_coding" target="blank"><img src="https://img.shields.io/twitter/follow/heaven_coding?logo=twitter&style=for-the-badge" alt="heaven_coding" /></a> </p>
 
 - 🔭 I’m currently working on [Computer Vision Library(CVPRO)](https://github.com/Mohak-CODING-HEAVEN/cvpro)
@@ -37,6 +35,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohak-coding-heaven&show_icons=true&theme=cobalt&locale=en" alt="mohak-coding-heaven" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohak-coding-heaven&" alt="mohak-coding-heaven" /></p>
-
