@@ -1,31 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mohak Bajaj</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak-coding-heaven&label=Profile%20views&color=0e75b6&style=flat" alt="mohak-coding-heaven" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohak-coding-heaven&label=Profile%20views&color=0e75b6&style=flat" alt="mohak-coding-heaven" /> &nbsp <a href="https://twitter.com/heaven_coding" target="blank"><img src="https://img.shields.io/twitter/follow/heaven_coding?logo=twitter&style=for-the-badge" alt="heaven_coding" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/heaven_coding" target="blank"><img src="https://img.shields.io/twitter/follow/heaven_coding?logo=twitter&style=for-the-badge" alt="heaven_coding" /></a> </p>
+- 🔭 I’m currently working on **Computer Vision Projects**.
 
-- 🔭 I’m currently working on [Computer Vision Library(CVPRO)](https://github.com/Mohak-CODING-HEAVEN/cvpro)
+- 🌱 I’m currently learning **New Tech Stacks**
 
-- 🌱 I’m currently learning **Flutter, React-Native**
-
-- 👯 I’m looking to collaborate on **OpenSource Python Project**
+- 👯 I’m looking to collaborate on **Any Great Project**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mohak.tk](https://www.portfolio-mohak.tk)
 
-- 💬 Ask me about **Python, ComputerVision, Machine Learning**
+- 💬 Ask me anything about **Tech**
 
 - 📫 How to reach me **bmohak87@gmail.com**
-
-- 📄 Know about my experiences ["Resume"](https://github.com/Mohak-CODING-HEAVEN/Mohak-CODING-HEAVEN/raw/main/Resume.pdf)
-
-- ⚡ Fun fact **I think I'm the Best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heaven_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heaven_coding" height="30" width="40" /></a>
-
-<a href="https://instagram.com/coding.heaven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding.heaven" height="30" width="40" /></a>
+<a href="https://instagram.com/be.techie.with.mohak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="be.techie.with.mohak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCqfxtQ0x3_AvteWSK6icZow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding.heaven" height="30" width="40" /></a>
 </p>
 
