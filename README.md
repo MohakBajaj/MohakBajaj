@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohak Bajaj</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
+<img align="right" src="https://avatars.githubusercontent.com/u/77928693?v=4" style="width:400px;height:400px;object-fit:cover;">
+
 ## ✒️Bio
 - 🔭 I’m currently working on **Computer Vision Projects**.
 
