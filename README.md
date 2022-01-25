@@ -14,7 +14,7 @@
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-bajaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14572622) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohakBajaj5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCqfxtQ0x3_AvteWSK6icZow) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-bajaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14572622) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohakBajaj5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCqfxtQ0x3_AvteWSK6icZow) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+91%208368110739?text=Sup!%20Mohak)
 
 # 👨‍💻My Workspace
 ![](https://img.shields.io/badge/Ryzen%209-5900HX-red?style=for-the-badge&logo=amd) ![](https://img.shields.io/badge/GeForce%20RTX-3050Ti-white?style=for-the-badge&logo=nvidia) ![](https://img.shields.io/badge/RAM-16%20GB-green?style=for-the-badge) ![](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
