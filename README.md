@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohak Bajaj</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<img align="right" src="https://cdn1.vectorstock.com/i/thumb-large/08/60/eat-sleep-code-repeat-vector-36350860.jpg" style="width:250px;height:auto;">
-
 ## ✒️Bio
 - 🔭 I’m currently working on **Computer Vision Projects**.
 
