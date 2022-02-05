@@ -37,6 +37,8 @@
 ![](https://komarev.com/ghpvc/?username=Mohak-CODING-HEAVEN&label=Visitors+Count&color=brightgreen&style=flat-square)
 ---
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/UCD-UPES/ucd-upes.github.io/pull/1) in [UCD-UPES/ucd-upes.github.io](https://github.com/UCD-UPES/ucd-upes.github.io)
+2. 💪 Opened PR [#1](https://github.com/UCD-UPES/ucd-upes.github.io/pull/1) in [UCD-UPES/ucd-upes.github.io](https://github.com/UCD-UPES/ucd-upes.github.io)
 <!--END_SECTION:activity-->
 ---
   ## 💰You can help me by Donating
