@@ -35,12 +35,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 ![](https://komarev.com/ghpvc/?username=Mohak-CODING-HEAVEN&label=Visitors+Count&color=brightgreen&style=flat-square)
----
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/UCD-UPES/ucd-upes.github.io/pull/1) in [UCD-UPES/ucd-upes.github.io](https://github.com/UCD-UPES/ucd-upes.github.io)
-2. 💪 Opened PR [#1](https://github.com/UCD-UPES/ucd-upes.github.io/pull/1) in [UCD-UPES/ucd-upes.github.io](https://github.com/UCD-UPES/ucd-upes.github.io)
-<!--END_SECTION:activity-->
----
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohak.bajaj) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohakGAMER) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohakbajaj01) 
+## 💰You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohak.bajaj) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohakGAMER) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohakbajaj01) 
   
