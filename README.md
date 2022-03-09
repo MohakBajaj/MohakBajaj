@@ -5,7 +5,7 @@
 ## ✒️Bio
 - 🔭 I’m currently working on **Computer Vision Projects**.
 
-- 🌱 I’m currently learning **New Tech**
+- 🌱 I’m currently learning **New Tech Stacks**
 
 - 👯 I’m looking to collaborate on **Any Great Project**
 
