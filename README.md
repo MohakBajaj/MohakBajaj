@@ -30,21 +30,21 @@ https://user-images.githubusercontent.com/77928693/210091501-0338c7b7-7c47-446c-
 
 # 📊GitHub Stats :
 ![](https://activity-graph.herokuapp.com/graph?username=mohak-coding-heaven&theme=dracula&hide_border=true)
-![](https://raw.githubusercontent.com/Mohak-CODING-HEAVEN/Mohak-CODING-HEAVEN/output/github-contribution-grid-snake.svg)
-![](https://github-readme-stats.vercel.app/api?username=Mohak-CODING-HEAVEN&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohak-CODING-HEAVEN&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohak-CODING-HEAVEN&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+![](https://raw.githubusercontent.com/MohakBajaj/MohakBajaj/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=MohakBajaj&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohakBajaj&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohakBajaj&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 
 # 📈Holopin Badge Board
 [![@mohakbajaj's Holopin board](https://holopin.me/mohakbajaj)](https://holopin.io/@mohakbajaj)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohak-CODING-HEAVEN&theme=radical&no-frame=true&no-bg=true&margin-w=2)
+![](https://github-profile-trophy.vercel.app/?username=MohakBajaj&theme=radical&no-frame=true&no-bg=true&margin-w=2)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-![](https://komarev.com/ghpvc/?username=Mohak-CODING-HEAVEN&label=Visitors+Count&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=MohakBajaj&label=Visitors+Count&color=brightgreen&style=for-the-badge)
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohak.bajaj) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohakGAMER) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohakbajaj01) 
   
