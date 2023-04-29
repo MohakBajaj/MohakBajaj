@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any Great Project**
 
-- 👨‍💻 All of my projects are available at [https://mohak.ml](https://www.mohak.ml)
+- 👨‍💻 All of my projects are available at [https://mohak-ml.vercel.app/](https://mohak-ml.vercel.app/)
 
 - 💬 Ask me anything about **Tech**
 
