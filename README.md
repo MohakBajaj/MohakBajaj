@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohak Bajaj</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<a href="https://app.daily.dev/mohak_bajaj"><img align="right" src="https://api.daily.dev/devcards/f0ffe1d996b04666a6d8bfc710889859.png?r=xye" width="400" alt="Mohak Bajaj's Dev Card"/></a>
+<a href="https://app.daily.dev/mohak_bajaj"><img align="right" src="/devcard.svg" width="400" alt="Mohak Bajaj's Dev Card"/></a>
 ## ✒️Bio
 - 🔭 I’m currently working on **CBoarding**
 
 - 🌱 I’m currently learning **New Tech Stacks**
 
 - 👯 I’m looking to collaborate on **Any Great Project**
-
-- 👨‍💻 Some of my projects are available at [https://bmohak.tech/](https://bmohak.tech/)
 
 - 💬 Ask me anything about **Tech**
 
