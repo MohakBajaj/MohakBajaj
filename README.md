@@ -20,17 +20,15 @@
 # 👨‍💻My Workspace
 ![](https://img.shields.io/badge/Ryzen%209-5900HX-red?style=for-the-badge&logo=amd) ![](https://img.shields.io/badge/GeForce%20RTX-3050Ti-white?style=for-the-badge&logo=nvidia) ![](https://img.shields.io/badge/RAM-16%20GB-green?style=for-the-badge) ![](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
 
-# 📊GitHub Stats :
-![](https://activity-graph.herokuapp.com/graph?username=MohakBajaj&theme=dracula&hide_border=true)
-![](https://raw.githubusercontent.com/MohakBajaj/MohakBajaj/output/github-contribution-grid-snake.svg)
-![](https://github-readme-stats.vercel.app/api?username=MohakBajaj&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohakBajaj&theme=radical&hide_border=true)
-
-# 📈Holopin Badge Board
-[![@mohakbajaj's Holopin board](https://holopin.me/mohakbajaj)](https://holopin.io/@mohakbajaj)
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohakBajaj&theme=radical&no-frame=true&no-bg=true&margin-w=2)
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=MohakBajaj&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohakBajaj&theme=radical&hide_border=true)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 📈Holopin Badge Board
+[![@mohakbajaj's Holopin board](https://holopin.me/mohakbajaj)](https://holopin.io/@mohakbajaj)
