@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohak Bajaj</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<a href="https://app.daily.dev/MohakBajaj"><img src="https://api.daily.dev/devcards/f0ffe1d996b04666a6d8bfc710889859.png?r=jvp" width="400" alt="Mohak Bajaj's Dev Card"/></a>
+<a href="https://app.daily.dev/MohakBajaj"><img align="right" src="https://api.daily.dev/devcards/f0ffe1d996b04666a6d8bfc710889859.png?r=jvp" width="400" alt="Mohak Bajaj's Dev Card"/></a>
 ## ✒️Bio
 - 🔭 I’m currently working on **CBoarding**
 
