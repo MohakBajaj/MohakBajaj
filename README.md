@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohak Bajaj</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
-<a href="https://app.daily.dev/mohakbajaj"><img src="https://api.daily.dev/devcards/v2/1av8TctyU7ncDOc1sMFeE.png?r=r5f" width="356" alt="Mohak Bajaj's Dev Card"/></a>
+<a href="https://app.daily.dev/mohakbajaj"><img align="right" src="https://api.daily.dev/devcards/v2/1av8TctyU7ncDOc1sMFeE.png?r=r5f" width="356" alt="Mohak Bajaj's Dev Card"/></a>
 
 ## ✒️Bio
-- 🔭 I’m currently working on **CBoarding**
+- 🔭 I’m currently working on **Uncut: Get Real. Stay Anonymous.**
 
 - 🌱 I’m currently learning **New Tech Stacks**
 
