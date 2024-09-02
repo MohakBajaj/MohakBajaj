@@ -4,9 +4,9 @@
 <a href="https://app.daily.dev/mohakbajaj"><img align="right" src="https://api.daily.dev/devcards/v2/1av8TctyU7ncDOc1sMFeE.png?r=r5f" width="356" alt="Mohak Bajaj's Dev Card"/></a>
 
 ## ✒️Bio
-- 🔭 I’m currently working on **Uncut: Get Real. Stay Anonymous.**
+- 🔭 I’m currently working on **Echo: Amplify your voice, anonymously.**
 
-- 🌱 I’m currently learning **New Tech Stacks**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👯 I’m looking to collaborate on **Any Great Project**
 
@@ -14,7 +14,7 @@
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-bajaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14572622) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohakBajaj5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCqfxtQ0x3_AvteWSK6icZow) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-bajaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14572622) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/MohakBajaj5)
 
 # 👨‍💻My Workspace
 ![](https://img.shields.io/badge/Ryzen%209-5900HX-red?style=for-the-badge&logo=amd) ![](https://img.shields.io/badge/GeForce%20RTX-3050Ti-white?style=for-the-badge&logo=nvidia) ![](https://img.shields.io/badge/RAM-16%20GB-green?style=for-the-badge) ![](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
