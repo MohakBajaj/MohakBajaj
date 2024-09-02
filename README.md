@@ -14,7 +14,7 @@
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-bajaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14572622) [![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/MohakBajaj5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-bajaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14572622) [![X](https://img.shields.io/badge/(formerly%20Twitter)-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/MohakBajaj5)
 
 # 👨‍💻My Workspace
 ![](https://img.shields.io/badge/Ryzen%209-5900HX-red?style=for-the-badge&logo=amd) ![](https://img.shields.io/badge/GeForce%20RTX-3050Ti-white?style=for-the-badge&logo=nvidia) ![](https://img.shields.io/badge/RAM-16%20GB-green?style=for-the-badge) ![](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
