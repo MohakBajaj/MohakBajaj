@@ -1,0 +1,69 @@
+name: Uptime monitor
+
+# Probes every public production endpoint this account runs and fails the run
+# when one stops answering with a healthy status. The failed run is the alert:
+# it shows up in the repository's Actions failure feed and in Polylane's GitHub
+# error rollup, so a regression is detected by a system instead of by a person
+# noticing that a link is broken.
+
+on:
+  schedule:
+    # Every 15 minutes (GitHub Actions cron runs in UTC and may be delayed).
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/uptime-monitor.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: uptime-monitor
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Probe public endpoints
+        run: |
+          set -uo pipefail
+
+          endpoints=(
+            "https://bmohak.xyz"
+            "https://cboarding.vercel.app"
+            "https://echo-mohak-bajaj.vercel.app"
+            "https://echo.vercel.app"
+            "https://uncut-app.vercel.app"
+            "https://bidroyale.vercel.app"
+            "https://personal-website-revamp-inky.vercel.app"
+            "https://resume-xi-vert.vercel.app"
+            "https://mohakbajaj.github.io/ChromeNewTabPage/"
+            "https://mohakbajaj.github.io/WebCam-to-ASCII/"
+            "https://mohakbajaj.github.io/The-Matrix-Rain/"
+            "https://mohakbajaj.github.io/GridAnimationHeader/"
+            "https://mohakbajaj.github.io/DNA-Data-EncoderDecoder/"
+          )
+
+          failures=0
+          for url in "${endpoints[@]}"; do
+            # A failed connect/TLS/DNS lookup leaves http_code at 000; -L follows redirects.
+            code=$(curl -sS -o /dev/null -w '%{http_code}' --max-time 25 -L "$url" || true)
+            code=${code:-000}
+            if [ "$code" -ge 200 ] && [ "$code" -lt 400 ]; then
+              echo "OK   $code $url"
+            else
+              echo "FAIL $code $url"
+              failures=$((failures + 1))
+            fi
+          done
+
+          if [ "$failures" -ne 0 ]; then
+            echo "::error::$failures of ${#endpoints[@]} monitored endpoints are unhealthy"
+            exit 1
+          fi
+
+          echo "All ${#endpoints[@]} monitored endpoints are healthy"
