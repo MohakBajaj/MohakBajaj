@@ -1,0 +1,27 @@
+README.md
+  s_02bfb2c75b0825::t_fa4d68160618f0 5,7-10,36-38
+assets/badge-tui.svg
+  s_02bfb2c75b0825::t_e11a1682310dfd 1
+assets/header.svg
+  s_02bfb2c75b0825::t_7e904cc467df64 1-74
+assets/stack-dark.svg
+  s_02bfb2c75b0825::t_dd88a8146b0b5a 1-99
+assets/stack-light.svg
+  s_02bfb2c75b0825::t_dbe7d52e3e1926 1-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f930e0230fd92a9edf43c0fdcba5d04db2cb041",
+  "prompts": {},
+  "sessions": {
+    "s_02bfb2c75b0825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3833d727-cc52-474f-84b5-5182fadbb3ff",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
