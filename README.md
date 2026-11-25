@@ -2,12 +2,12 @@
 
 # Mohak Bajaj
 
-<a href="https://bmohak.xyz"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=520&lines=Full+Stack+Architect+%40+CambrianEdge.ai;Shipping+in+public%2C+receipts+attached;Reviews+every+diff+the+AI+writes;675+MB+%E2%86%92+91+MB.+Ask+me+how." alt="Full Stack Architect at CambrianEdge.ai. Shipping in public, receipts attached." /></a>
+<a href="https://bmohak.xyz"><img src="assets/header.svg" alt="Full Stack Architect at CambrianEdge.ai. Shipping in public, receipts attached." /></a>
 
-<a href="https://bmohak.xyz"><img src="https://img.shields.io/badge/bmohak.xyz-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://tui.bmohak.xyz"><img src="https://img.shields.io/badge/tui.bmohak.xyz-000000?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Terminal portfolio" /></a>
-<a href="https://x.com/MohakBajaj5"><img src="https://img.shields.io/badge/@MohakBajaj5-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://linkedin.com/in/mohak-bajaj"><img src="https://img.shields.io/badge/in-mohak--bajaj-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://bmohak.xyz"><img src="assets/badge-site.svg" alt="Website" /></a>
+<a href="https://tui.bmohak.xyz"><img src="assets/badge-tui.svg" alt="Terminal portfolio" /></a>
+<a href="https://x.com/MohakBajaj5"><img src="assets/badge-x.svg" alt="X" /></a>
+<a href="https://linkedin.com/in/mohak-bajaj"><img src="assets/badge-linkedin.svg" alt="LinkedIn" /></a>
 
 </div>
 
@@ -33,9 +33,9 @@ Full Stack Architect at [CambrianEdge.ai](https://cambrianedge.ai), Delhi NCR. I
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cbun%2Cgo%2Crust%2Cpy%2Cdocker%2Cgithubactions%2Cjenkins%2Cansible%2Cvercel%2Celectron&theme=dark&perline=14" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cbun%2Cgo%2Crust%2Cpy%2Cdocker%2Cgithubactions%2Cjenkins%2Cansible%2Cvercel%2Celectron&theme=light&perline=14" />
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,bun,go,rust,py,docker,githubactions,jenkins,ansible,vercel,electron&theme=dark&perline=14" alt="TypeScript, React, Next.js, Tailwind, Bun, Go, Rust, Python, Docker, GitHub Actions, Jenkins, Ansible, Vercel, Electron" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-dark.svg" alt="TypeScript, React, Next.js, Tailwind, Bun, Go, Rust, Python, Docker, GitHub Actions, Jenkins, Ansible, Vercel, Electron" />
 </picture>
 
 <sub>Writing at [bmohak.xyz/writing](https://bmohak.xyz/writing). Every diff still gets read before it lands.</sub>
