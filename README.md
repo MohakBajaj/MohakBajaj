@@ -15,12 +15,14 @@ Full Stack Architect at [CambrianEdge.ai](https://cambrianedge.ai), Delhi NCR. I
 
 ## Shipping lately
 
-| | |
-|---|---|
-| **[Jot](https://sayjot.xyz)** | Tap Shift twice and the selection is a markdown file in a folder you own. 2.0 is a Rust rewrite on Rune, **675 MB → 91 MB**, same vault. Ships with a [Raycast extension](https://github.com/raycast/extensions/pull/33507) and an [MCP server](https://github.com/MohakBajaj/jot-mcp) that has no delete tool, on purpose. |
-| **[mohak.tui](https://github.com/MohakBajaj/mohak.tui)** | The terminal portfolio at [tui.bmohak.xyz](https://tui.bmohak.xyz). Go, Bubble Tea, Wish, and an AI chat, running in Termux on my phone. |
-| **[SyncUp DJ](https://github.com/MohakBajaj/syncup-djs)** | A multiplayer live-coding jam booth on shared Strudel patterns. Built at the Cursor buildathon. |
-| **[Slip](https://github.com/MohakBajaj/slip)** · **[Copper](https://github.com/MohakBajaj/copper)** | Local-first capture inboxes for AI-assisted work. Select text, press a chord, own the markdown. |
+- **[Jot](https://sayjot.xyz)**  
+  Tap Shift twice and the selection is a markdown file in a folder you own. 2.0 is a Rust rewrite on Rune, **675 MB → 91 MB**, same vault. Ships with a [Raycast extension](https://github.com/raycast/extensions/pull/33507) and an [MCP server](https://github.com/MohakBajaj/jot-mcp) that has no delete tool, on purpose.
+- **[mohak.tui](https://github.com/MohakBajaj/mohak.tui)**  
+  The terminal portfolio at [tui.bmohak.xyz](https://tui.bmohak.xyz). Go, Bubble Tea, Wish, and an AI chat, running in Termux on my phone.
+- **[SyncUp DJ](https://github.com/MohakBajaj/syncup-djs)**  
+  A multiplayer live-coding jam booth on shared Strudel patterns. Built at the Cursor buildathon.
+- **[Slip](https://github.com/MohakBajaj/slip)** · **[Copper](https://github.com/MohakBajaj/copper)**  
+  Local-first capture inboxes for AI-assisted work. Select text, press a chord, own the markdown.
 
 ## Around
 
@@ -31,8 +33,8 @@ Full Stack Architect at [CambrianEdge.ai](https://cambrianedge.ai), Delhi NCR. I
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,bun,go,rust,py,docker,githubactions,jenkins,ansible,vercel,electron&theme=dark&perline=14" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,bun,go,rust,py,docker,githubactions,jenkins,ansible,vercel,electron&theme=light&perline=14" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cbun%2Cgo%2Crust%2Cpy%2Cdocker%2Cgithubactions%2Cjenkins%2Cansible%2Cvercel%2Celectron&theme=dark&perline=14" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cbun%2Cgo%2Crust%2Cpy%2Cdocker%2Cgithubactions%2Cjenkins%2Cansible%2Cvercel%2Celectron&theme=light&perline=14" />
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,bun,go,rust,py,docker,githubactions,jenkins,ansible,vercel,electron&theme=dark&perline=14" alt="TypeScript, React, Next.js, Tailwind, Bun, Go, Rust, Python, Docker, GitHub Actions, Jenkins, Ansible, Vercel, Electron" />
 </picture>
 
