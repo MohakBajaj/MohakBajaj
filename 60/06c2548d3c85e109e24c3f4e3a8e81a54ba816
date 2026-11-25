@@ -1,0 +1,21 @@
+assets/badge-site.svg
+  s_02bfb2c75b0825::t_c28a100c6ae35a 1
+assets/badge-x.svg
+  s_02bfb2c75b0825::t_18ed24b9d157ed 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6006c2548d3c85e109e24c3f4e3a8e81a54ba816",
+  "prompts": {},
+  "sessions": {
+    "s_02bfb2c75b0825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3833d727-cc52-474f-84b5-5182fadbb3ff",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>"
+    }
+  }
+}
